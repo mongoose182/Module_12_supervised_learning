@@ -1,2 +1,2 @@
 # Module_12_supervised_learning
-Module 12 Assignment 
+Code for Module 12 Assignment located in "credit_risk_resampling.ipynb" file
